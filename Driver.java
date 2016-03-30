@@ -1,6 +1,6 @@
 package sudoku;
 
-// testataan uppaamista. Jos luet tämän, testi onnistui!
+// testataan uppaamista. Jos luet tämän, testi onnistui! taas muokataan!!!
 
 
 //import static sudoku.arvoKentta.arvoKentta;
